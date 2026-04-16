@@ -63,7 +63,8 @@
       "data-cover-never": [
         "node_modules"
       ]
-    }
+    },
+    "head": "Nightscout Tomasza"
   },
   "engines": {
     "node": ">=16.x",
